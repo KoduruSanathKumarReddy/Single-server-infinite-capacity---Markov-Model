@@ -19,6 +19,9 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 
 ## Experiment:
+![Uploading Screenshot 2023-06-07 at 1.33.50 PM.png…]()
+
+<img width="748" alt="Screenshot 2023-06-07 at 1 33 59 PM" src="https://github.com/KoduruSanathKumarReddy/Single-server-infinite-capacity---Markov-Model/assets/69503902/d0afb3f0-d603-48e7-938f-c4720cadada3">
 
 
  
@@ -26,6 +29,8 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 ![image](https://github.com/ramjan1729/Single-server-infinite-capacity---Markov-Model/assets/103921593/5f1fd58d-5929-4c51-89ea-4cef009e5bad)
 
 ## Output :
+![Uploading Screenshot 2023-06-07 at 1.34.16 PM.png…]()
+
 
 ## Result :
-
+The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
